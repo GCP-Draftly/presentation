@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/d94fb1e0-6538-488a-8adb-a3845d379ed2)
+
 **📦 Project Overview: Draftly AI Slide Generator**
 
 **🌐 1. Project Description**
